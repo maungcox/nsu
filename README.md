@@ -1,0 +1,2 @@
+# nsu
+test for students
